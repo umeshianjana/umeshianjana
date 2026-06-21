@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anjana Umeshi! 👋
 
-<!--
-**umeshianjana/umeshianjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Engineering Student & Freelance Graphic Designer from Sri Lanka 🇱🇰
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 **Currently learning:** Python Programming and Web Development via University of Moratuwa Open Learning Platform.
+- 🔭 **Working on:** Building my first Python projects (like a CLI Calculator!).
+- 🎨 **Interests:** Technical Illustration, Scientific Infographics, and Surface Pattern Design.
+- ⚡ **Fun fact:** I love creating minimal aesthetic designs and bringing tech concepts to life visually.
+
+### 🛠️ Tech & Tools I Use / Learning
+- **Languages:** Python, HTML, CSS
+- **Design Tools:** Canva
+
+### 📬 Connect with me
+- **LinkedIn:** www.linkedin.com/in/anjana-umeshi
+
