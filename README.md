@@ -1,19 +1,27 @@
 # Hi, I'm Anjana Umeshi! 👋
 
-Undergraduate Engineering Student & Freelance Graphic Designer from Sri Lanka 🇱🇰
+Electrical, Electronic & Communication Engineering Undergraduate passionate about Digital Systems Design, RTL Verification, and Embedded Systems.
+
+### 🚀 About Me
+- 🎓 **Education:** BEng (Hons) Electrical, Electronics & Communication Engineering
+- 🎯 **Focus Areas:** FPGA/ASIC Design, Digital Logic, SystemVerilog/Verilog, RTL Simulation, PIC Microcontrollers
+- 💻 **Currently Learning:** RTL Verification methodologies, SystemVerilog fundamentals, and Digital Hardware Optimization
+- 🛠️ **Hands-on Projects:** Building and simulating Verilog modules on EDA Playground and PIC16F877A Embedded Systems
 
 ---
 
-### 🚀 About Me
-- 🌱 **Currently learning:** Python Programming and Web Development via University of Moratuwa Open Learning Platform.
-- 🔭 **Working on:** Building my first Python projects (like a CLI Calculator!).
-- 🎨 **Interests:** Technical Illustration, Scientific Infographics, and Surface Pattern Design.
-- ⚡ **Fun fact:** I love creating minimal aesthetic designs and bringing tech concepts to life visually.
+### 🛠️ Tech & Tools
+* **Hardware Description:** Verilog HDL, SystemVerilog
+* **Simulation & Tools:** EDA Playground, Icarus Verilog, EPWave, MPLAB X, Proteus Simulation
+* **Languages:** C, Verilog, Python
 
-### 🛠️ Tech & Tools I Use / Learning
-- **Languages:** Python, HTML, CSS
-- **Design Tools:** Canva
+---
 
-### 📬 Connect with me
-- **LinkedIn:** www.linkedin.com/in/anjana-umeshi
+### 📌 Featured Repositories
+- [Verilog-Digital-Logic-Design](https://github.com/umeshianjana/Verilog-Digital-Logic-Design) — Collection of simulated Verilog modules (Counters, Shift Registers, Logic Design).
+- [PIC16F877A-Keypad-DoorLock-System](https://github.com/umeshianjana/PIC16F877A-Keypad-DoorLock-System) — Embedded keypad door lock system simulation and firmware.
 
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/anjana-umeshi](https://www.linkedin.com/in/anjana-umeshi)
